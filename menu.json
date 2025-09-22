@@ -1,0 +1,44 @@
+{
+    "Monday": {
+        "B": "Masala Veg Sandwich, Ketchup, Tea + Coffee, Boiled Egg/Omelette, Bread + Butter + Jam, Bournvita, Hot + Cold Milk, Cornflakes",
+		"L": "Aloo Gobhi Mutter Dry, Punjabi Rajma, Dal Masala, Plain Rice, Chapati, Sambhar, Green Salad, Fryums, Curd, Gulab Jamun/Cream Jamun",
+		"S": "Masala Maggi",
+		"D": "Mix Tawa Veg Dry, Paneer Bhurji/Palak Paneer, Dal Fry, Jeera Rice, Chapati+Paratha, Sambhar, Onion Salad, Boondi Raita, Egg Bhurji/Curry, Fruit"
+    },
+    "Tuesday": {
+        "B": "Tadka Idli/Idli Sambhar , Ketchup+Chutney, Tea + Coffee, Boiled Egg/Omelette, Bread + Butter + Jam, Bournvita, Hot + Cold Milk, Cornflakes",
+		"L": "Bhindi Dry, Veg Kolhapuri, Dal Makhani, Jeera Rice, Chapati, Rasam, Chana Onion Tomato Salad, Roasted Papad, Curd, Fruit Custard",
+		"S": "Bread Pakoda",
+		"D": "Methi Malai Matar, Samosa Chaat/Dahi Kachori, Dal Panchratan, Plain Rice, Chapati, Rasam, Toss Salad, Plain Curd"
+    },
+    "Wednesday": {
+        "B": "Aloo Pyaz Paratha, Curd, Tea + Coffee, Boiled Egg/Omelette, Bread + Butter + Jam, Bournvita, Hot + Cold Milk, Cornflakes",
+		"L": "Black Chana Dry, Malai Kofta (White Gravy), Dal Palak, Mutter Rice, Chapati, Sambhar, Sprout Moong Salad, Fryums, Mint Lemonade, Rasmalai",
+		"S": "Veg Cutlet",
+		"D": "Aloo Beans Dry, Paneer Biryani, Dal Masala, Masala Khichdi, Chapati, Sambhar, Mix Salad, Veg Raita, Chicken Biryani, Fruit"
+    },
+    "Thursday": {
+        "B": "Onion Poha, Lemon+Sev+Curd, Tea + Coffee, Boiled Egg/Omelette, Bread + Butter + Jam, Bournvita, Hot + Cold Milk, Cornflakes",
+		"L": "Aloo Jeera Dry, Chhole Amritsari, Dal Fry, Plain Rice, Puri+Chapati, Rasam, Toss Salad, Fried Papad, Fresh Lime Water, Sevai Kheer/Rice Kheer",
+		"S": "Vada Pav",
+		"D": "Pav Bhaji, Mushroom Masala, Onion+Lemon, Roasted Papad, Chapati, Veg Schezwan Fried Rice, Green Salad, Cucumber Raita"
+    },
+    "Friday": {
+        "B": "Medu Wada/Onion Uttapam , Sambhar+Chutney, Tea + Coffee, Boiled Egg/Omelette, Bread + Butter + Jam, Bournvita, Hot + Cold Milk, Cornflakes",
+		"L": "Soya Dry, Sev Tamatar, Dal Panchratna, Plain Rice, Chapati, Sambhar, Dhokla+Chutney, Fryums, Curd, Moong Dal Halwa/Pineapple Sheera",
+		"S": "Schezwan Roll",
+		"D": "Dhudi Chana Dry, Kadhai Paneer/Mutter Paneer, Dal Tadka, Jeera Rice, Chapati, Sambhar, Toss Salad, Boondi Raita, Egg Curry/Butter Chicken, Fruit"
+    },
+    "Saturday": {
+        "B": "Puri Bhaji, Pickle, Tea + Coffee, Boiled Egg/Omelette, Bread + Butter + Jam, Bournvita, Hot + Cold Milk, Cornflakes",
+		"L": "Gajar Matar Dry, Dum Aloo Gravy, Dal Lasooni, Mutter Rice, Chapati, Rasam, Macroni Salad, Roasted Papad, Punjabi Lassi, Jalebi-Rabdi",
+		"S": "French Fries",
+		"D": "Mix Paratha(Aloo+Paneer+Onion), Aloo Mutter Gravy, Dal Makhani, Plain Rice, Chapati, Kokam Rasam, Mix Salad, Plain Curd"
+    },
+    "Sunday": {
+        "B": "Podi Masala Dosa, Sambhar+Chutney, Tea + Coffee, Boiled Egg/Omelette, Bread + Butter + Jam, Bournvita, Hot + Cold Milk, Cornflakes",
+		"L": "Veg Kofta, Dahi Wada, Dal Tadka, Aloo Dum Biryani, Chapati, Vegetable Raita, Fried Papad",
+		"S": "Samosa",
+		"D": "Chole-Bhature, Sev Dahi Puri, Curd Rice, Onion+Lemon, Chapati, Choco Bite, Green Salad"
+    }
+}
